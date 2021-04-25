@@ -9,8 +9,13 @@ I'm also publishing some Python packages for data resampling and data analysis f
 
 :envelope_with_arrow: oriol.cabanas@gmail.com
 
+<img align="left" alt="Oriol Cabanas" width="22px" src="https://github.com/ocabanas/ocabanas/blob/main/src/linkedin.png" /> Oriol Cabanas
+
 **Languages and tools:**
 
+<img align="left" alt="Fortran" width="22px" src="https://github.com/ocabanas/ocabanas/blob/main/src/fortran.png" />
+<img align="left" alt="Python" width="22px" src="https://github.com/ocabanas/ocabanas/blob/main/src/python.jpeg" />
+<img align="left" alt="Linux" width="22px" src="https://github.com/ocabanas/ocabanas/blob/main/src/linux.png" />
 
 <!---
 - 👋 Hi, I’m @ocabanas
