@@ -7,7 +7,7 @@ I'm also publishing some Python packages for data resampling and data analysis f
 
 **Contact**
 
-:envelope_with_arrow: oriol.cabanas@gmail.com
+:envelope_with_arrow:   oriol.cabanas@gmail.com
 
 <img align="left" alt="Oriol Cabanas" width="22px" src="https://github.com/ocabanas/ocabanas/blob/main/src/linkedin.png" /> Oriol Cabanas
 
