@@ -9,7 +9,7 @@ I'm also publishing some Python packages for data resampling and data analysis f
 
 :envelope_with_arrow:  &nbsp; &nbsp;  oriol.cabanas@gmail.com
 
-<img align="left" alt="Oriol Cabanas" width="22px" src="https://github.com/ocabanas/ocabanas/blob/main/src/linkedin.png" /> Oriol Cabanas
+<img align="left" alt="Oriol Cabanas" width="22px" src="https://github.com/ocabanas/ocabanas/blob/main/src/linkedin.png" /> [Oriol Cabanas](https://www.linkedin.com/in/oriolcabanas/)
 
 **Languages and tools:**
 
